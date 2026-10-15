@@ -104,7 +104,7 @@ Decision Tree juga mudah dilihat dan dijelaskan lewat gambar pohonnya.
 
 ## 6. Catatan
 
-Akurasi kedua model 100%, tetapi ini perlu dibaca hati-hati. Decision Tree hanya memakai
+Akurasi kedua model 100%, tetapi perlu dibaca hati-hati. Decision Tree hanya memakai
 fitur `Kondisi_enc`, sementara `pump_target` memang ditentukan langsung dari kondisi tanah.
 Jadi data ini mudah dipisahkan, dan jumlah data ujinya juga baru 53.
 
