@@ -110,7 +110,7 @@ Jadi data ini mudah dipisahkan, dan jumlah data ujinya juga baru 53.
 
 ## 7. Cara Menjalankan
 
-1. Clone repo: `git clone [URL repo]`
+1. Clone repo: `git clone (https://github.com/adriyanramadhan-maker/plant-watering-ml.git)`
 2. Install library: `pip install pandas numpy scikit-learn joblib jupyter matplotlib seaborn`
 3. Buka Jupyter dengan `jupyter notebook`
 4. Jalankan `notebooks/00_All_Output_Code.ipynb` dari atas sampai bawah.
