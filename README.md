@@ -67,7 +67,7 @@ Jika PERLU_DISIRAM, pompa air dinyalakan lewat relay
 Pada grafik di atas, semua data dengan kondisi `kering` punya `pump_target = 1`, sedangkan
 kondisi `cukup` dan `basah` punya `pump_target = 0`.
 
-![Perbandingan Akurasi dan Sebaran Kelembapan Tanah per Kondisi](results/Grafik%20Perbandingan%20Akurasi%20Model%20Random%20Forest%20dan%20Decision%20Tree%20dan%20Grafik%20Distribusi%20Kelembapan%20Tanah%20Berdasarkan%20Kondisi%20Tanah.png)
+![Perbandingan Akurasi dan Sebaran Kelembapan Tanah per Kondisi](results/Perbandingan%20Akurasi%20Model%20Random%20Forest%20dan%20Decision%20Tree%20dan%20Grafik%20Distribusi%20Kelembapan%20Tanah%20Berdasarkan%20Kondisi%20Tanah.png)
 
 Nilai sensor kelembapan tanah terlihat berbeda untuk tiap kondisi. Tanah kering ada di
 sekitar 2000 sampai 3150 mV, tanah cukup sekitar 150 sampai 200 mV, dan tanah basah sekitar 50 mV.
